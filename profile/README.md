@@ -19,7 +19,7 @@
 With Tableau Desktop, analysts, data scientists, and business users can rapidly explore data, uncover hidden trends, and craft compelling stories through **interactive data visualizations**. Its powerful engine handles massive datasets with ease, making it the industry standard for organizations committed to **data-driven decision making**. The software's intuitive interface bridges the gap between complex data and actionable insights, fostering a culture of analytics across all departments.
 
 <p align="center">
-  <img src="https://www.researchgate.net/profile/Gonzalo-Mendez-2/publication/316652619/figure/fig1/AS:614212208451591@1523451010365/Tableau-Desktop-Interface.png" alt="Tableau Desktop Data Visualization Example"/>
+  <img src="https://cdnl.tblsft.com/sites/default/files/pages/hero_img.png" alt="Tableau Desktop Data Visualization Example"/>
 </p>
 
 ---
